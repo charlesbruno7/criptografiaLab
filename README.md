@@ -19,4 +19,4 @@ cmake --build build
 
 Execute o programa e siga o menu. Na cifra de Cesar, use o mesmo deslocamento para decifrar. Na cifra de Vigenere, use a mesma chave.
 
-> Estas cifras servem para fins didaticos e nao devem ser usadas para proteger informacoes reais.
+> OBS: Estas cifras servem para fins didaticos e nao devem ser usadas para proteger informacoes reais.
